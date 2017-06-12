@@ -1,7 +1,15 @@
+# !!! WARNING !!!
+#
+# This file should NOT be pulled into the production site since it sets specific site variables necessary to make the site work in non-production environments.
+#
+
 name: Tianocore
 description: Tianocore UEFI related projects
 
+# Can't define 'url' on non-production sites as it will mess up 'redirect_from'
 #url: http://www.tianocore.org
+
+# If hosting a project on GH pages, must define a baseurl to the project
 baseurl: /acgtianocore
 
 markdown: kramdown
