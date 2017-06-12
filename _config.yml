@@ -1,8 +1,6 @@
 name: Tianocore
 description: Tianocore UEFI related projects
 
-url: http://www.tianocore.org
-
 markdown: kramdown
 
 highlighter: rouge
