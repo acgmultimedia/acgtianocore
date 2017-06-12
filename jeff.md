@@ -7,3 +7,5 @@ title: Jeffs Test Page
 <hr/>
 {{ site.url }}
 <hr/>
+{{ site.baseurl }}
+<hr/>
