@@ -7,7 +7,7 @@ name: Tianocore
 description: Tianocore UEFI related projects
 
 # Can't define 'url' on non-production sites as it will mess up 'redirect_from'
-url: http://www.tianocore.org
+#url: http://www.tianocore.org
 
 # If hosting a project on GH pages, must define a baseurl to the project
 #baseurl: /acgtianocore
