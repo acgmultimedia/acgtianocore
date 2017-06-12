@@ -7,5 +7,7 @@ title: Jeffs Test Page
 <hr/>
 {{ site.url }}
 <hr/>
+{{ site.github.url }}
+<hr/>
 {{ site.baseurl }}
 <hr/>
