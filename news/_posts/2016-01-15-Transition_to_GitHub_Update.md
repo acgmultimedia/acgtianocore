@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Transition to Github Update
 ---
 {% include site-links.md %}

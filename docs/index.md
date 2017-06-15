@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Documents
+title: Documentation
+id: documentation
+redirect_from:
+  - /training/
 ---
 {% include site-links.md %}
 
-Documents including Specification, User Manuals, White Papers, and
-other member contributions are listed here.
-
-## [EDK II] Documents
-
-* <a href="{{baseurl}}/docs/EDK_II_Documents.html">EDK II Documents</a>  
-
-## [EDK]({{wiki}}/EDK) Documents
-
-* [EDK User Documentation]({{wiki}}/EDK User Documentation)
-* [EDK Member Documents]({{wiki}}/EDK Member Documents)
+The [TianoCore wiki on github]({{wiki}}) is the central repository for project information. Some project information is available as specifications or whitepapers (PDF & GitBook format).
+* [EDK II Specifications]({{wiki}}/EDK-II-Specifications)
+* [EDK II User Documentation]({{wiki}}/EDK-II-User-Documentation)
+* [EDK II Libraries and Helper files]({{wiki}}/EDK-II-Libraries-and-Helper-files)
+* [EDK II White papers]({{wiki}}/EDK-II-white-papers)
+* [EDK II Driver Developer Page]({{wiki}}/Driver-Developer)
+* [EDK II Documents on GitBook](https://www.gitbook.com/@edk2-docs)

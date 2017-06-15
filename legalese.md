@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Legalese
+title: Legal
 ---
 {% include site-links.md %}
 
-If you would like to make code contributions to our community, the
-please refer to our [Code
-Contributions]({{wiki}}/Code%20Contributions) and [Member
-Types]({{wiki}}/Member%20Types) pages.
+## Licenses for Tianocore Contributions
 
-## Licenses
+The preferred license for Tianocore is [BSD-2-Clause]({{wiki}}/BSD-License). The [Tianocore contributors agreement](https://raw.githubusercontent.com/tianocore/edk2/master/MdePkg/Contributions.txt) describes acceptable licenses for community contributions.
+* BSD (2-clause): [http://opensource.org/licenses/BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause)
+* BSD (3-clause): [http://opensource.org/licenses/BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
+* MIT: [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+* Python-2.0: [http://opensource.org/licenses/Python-2.0](http://opensource.org/licenses/Python-2.0)
+* Zlib: [http://opensource.org/licenses/Zlib](http://opensource.org/licenses/Zlib)
+	
+If you would like to make code contributions to our community, please refer to our [Code Contributions]({{wiki}}/Code-Contributions) and [Member Types]({{wiki}}/Member-Types) pages.
 
-The following licenses are used by our community:
-
-* [BSD License]({{wiki}}/BSD License)
-* [NetBSD License]({{wiki}}/NetBSD License)
-* [FAT32 License]({{wiki}}/FAT32 License) (BSD + one additional term)
-* [Eclipse License]({{wiki}}/Eclipse License)

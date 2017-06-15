@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Linaro Connect -Las Vegas 2016
 ---
 {% include site-links.md %}
@@ -7,5 +7,5 @@ title: Linaro Connect -Las Vegas 2016
 Linaro Connect -Las Vegas, Grand Ballroom C
 8:50 -9:35 Sep 29, 2016
 
-Session : TianoCore – Open Source UEFI Community Update
+Session : Tianocore – Open Source UEFI Community Update
 [https://las16.pathable.com/meetings/429717](https://las16.pathable.com/meetings/429717)
