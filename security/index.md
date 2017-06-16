@@ -1,6 +1,6 @@
 ---
-layout: redirect
-redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/Reporting-Security-Issues
+layout: acgRedirect
+acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/Reporting-Security-Issues
 title: Security
 ---
 {% include site-links.md %}

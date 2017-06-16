@@ -1,6 +1,6 @@
 ---
-layout: jredirect
-redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/EDK-II/
+layout: acgRedirect
+acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/EDK-II/
 title: EDK II
 # redirect_from: "/edk2.html"
 ---

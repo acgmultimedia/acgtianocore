@@ -1,6 +1,6 @@
 ---
-layout: redirect
-redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/Community-Admins
+layout: acgRedirect
+acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/Community-Admins
 title: Community Admins
 ---
 {% include site-links.md %}

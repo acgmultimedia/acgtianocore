@@ -1,6 +1,6 @@
 ---
-layout: redirect
-redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/UDK2015
+layout: acgRedirect
+acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/UDK2015
 title: UDK2015
 ---
 
