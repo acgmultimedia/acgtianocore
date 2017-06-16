@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 id: gettingStarted
 redirect_from:
-#  - /projects.html
+  - /projects.html
   - /contrib/getting-started.html
 ---
 {% include site-links.md %}
