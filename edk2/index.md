@@ -1,8 +1,8 @@
 ---
+layout: jredirect
 redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/EDK-II/
-layout: redirect
 title: EDK II
-redirect_from: "/edk2.html"
+# redirect_from: "/edk2.html"
 ---
 {% include site-links.md %}
 
