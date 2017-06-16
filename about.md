@@ -15,7 +15,7 @@ If you want to compile firmware or utilities, we recommend the [Getting Started 
 There are multiple [hardware platforms]({{wiki}}/EDK-II-Platforms){:target="_blank"} using EDK II open source UEFI firmware, including [MinnowBoard Max/Turbot]({{wiki}}/MinnowBoardMax){:target="_blank"}, [MinnowBoard 3]({{wiki}}/MinnowBoard-3){:target="_blank"}, and [Intel® Galileo Gen 2]({{wiki}}/Galileo){:target="_blank"}. This allows you to experiment and develop UEFI features on real hardware.
 
 ## Contributing to TianoCore
-If you would like to contribute code or fix issues, please see [How To Contribute]({{baseurl}}/contrib){:target="_blank"}. The [Tasks]({{wiki}}/Tasks){:target="_blank"} page has a list of priority work items.
+If you would like to contribute code or fix issues, please see [How To Contribute]({{baseurl}}/contrib). The [Tasks]({{wiki}}/Tasks){:target="_blank"} page has a list of priority work items.
 
 ## Reporting Issues
 TianoCore uses Bugzilla to track issues and feature requests. Please review [Reporting Issues]({{wiki}}/Reporting-Issues){:target="_blank"} and [Reporting Security Issues]({{wiki}}/Reporting-Security-Issues){:target="_blank"} for more information.
