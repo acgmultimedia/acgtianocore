@@ -22,7 +22,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Tianocore stewards acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
+You will receive an email from the TianoCore stewards acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
 
 The stewards will immediately meet to review the incident and determine:
 * What happened.
@@ -37,14 +37,14 @@ Once the stewards have a complete account of the events they will make a decisio
 * A private reprimand from the stewards to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Tianocore spaces (mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all TianoCore spaces (mailing lists, IRC, etc.)
 * A request for a public or private apology.
 
 We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
 
-The Tianocore stewards may choose to a public report of the incident.
+The TianoCore stewards may choose to a public report of the incident.
 
 ## Appealing
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision, contact the Tianocore stewards with your appeal and they will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision, contact the TianoCore stewards with your appeal and they will review the case.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tianocore web site
+title: TianoCore web site
 ---
 {% include site-links.md %}
 
