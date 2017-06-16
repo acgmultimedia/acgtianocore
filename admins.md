@@ -11,7 +11,7 @@ on the tianocore.org web pages and site:
 * [Laurie0131](mailto:laurie0131@users.sourceforge.net?Subject=Site%20Question)
 
 To become a community contributor (please see the [How to
-Contribute]({{wiki}}/How_To_Contribute) page) or contact the community
+Contribute]({{wiki}}/How_To_Contribute){:target="_blank"} page) or contact the community
 admins.
 
 If you do not get a response from the community admins, then feel feel

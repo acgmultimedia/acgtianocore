@@ -14,8 +14,8 @@ environment for the UEFI and PI specifications.
 
 
 #### Source repositories:  
-* edk2 main repository - [https://github.com/tianocore/edk2](https://github.com/tianocore/edk2)  
-* staging repository - [https://github.com/tianocore/edk2-staging](https://github.com/tianocore/edk2-staging)  
+* edk2 main repository - [https://github.com/tianocore/edk2](https://github.com/tianocore/edk2)
+* staging repository - [https://github.com/tianocore/edk2-staging](https://github.com/tianocore/edk2-staging)
 * [more » ](source.html)  
 
 #### Community:    
