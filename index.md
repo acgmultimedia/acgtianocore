@@ -7,7 +7,7 @@ redirect_from:
 ---
 {% include site-links.md %}
 
-Welcome to TianoCore, the community supporting an open source implementation of the Unified Extensible Firmware Interface ([UEFI])({{wiki}}/UEFI). [EDK II]({{wiki}}/EDK-II) is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization ([PI]({{wiki}}/PI)) specifications. We hope that you’ll review our [wiki]({{wiki}}) documentation, use TianoCore for platform firmware, [report any issues]({{wiki}}/Reporting-Issues) you find, and contribute to the community.
+Welcome to TianoCore, the community supporting an open source implementation of the Unified Extensible Firmware Interface ([UEFI]({{wiki}}/UEFI)). [EDK II]({{wiki}}/EDK-II) is a modern, feature-rich, cross-platform firmware development environment for the UEFI and UEFI Platform Initialization ([PI]({{wiki}}/PI)) specifications. We hope that you’ll review our [wiki]({{wiki}}) documentation, use TianoCore for platform firmware, [report any issues]({{wiki}}/Reporting-Issues) you find, and contribute to the community.
 
 ## Projects and Downloads
 If you want to compile firmware or utilities, we recommend the [Getting Started]({{baseurl}}/getting-started.html) page. This provides an overview of downloading [EDK II from github](https://github.com/tianocore/edk2), building a platform or sample application, and [reporting issues in Bugzilla]({{wiki}}/Reporting-Issues).
