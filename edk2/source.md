@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: redirect
+redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/EDK-II/
 title: EDK II Source Code
 ---
 {% include site-links.md %}

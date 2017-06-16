@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: redirect
+redirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/UEFI-EDKII-Learning-Dev
 title: Learning and Development
 ---
 {% include site-links.md %}
