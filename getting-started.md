@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include site-links.md %}
 
-If you want to compile firmware or utilities, we recommend the [Getting Started]() page. This provides an overview of downloading [EDK II from github](https://github.com/tianocore/edk2) building a sample platform ([NT32]({{wiki}}/Nt32Pkg), [OVMF]({{wiki}}/OVMF), [MdePkg]({{wiki}}/MdePkg), ...). You can also use the latest stable [UDK]({{wiki}}/UDK) snapshot of the EDK II project.
+If you want to compile firmware or utilities, we recommend first downloading [EDK II from github](https://github.com/tianocore/edk2) and building a sample platform ([NT32]({{wiki}}/Nt32Pkg), [OVMF]({{wiki}}/OVMF), [MdePkg]({{wiki}}/MdePkg), ...). You can also use a UEFI Development Kit ([UDK]({{wiki}}/UDK)) release, which is a stable snapshot based on [EDK II]({{wiki}}/edk-ii). 
 
 There are multiple [hardware platforms]({{wiki}}/EDK-II-Platforms) using EDK II open source UEFI firmware, including [MinnowBoard Max/Turbot]({{wiki}}/MinnowBoardMax), [MinnowBoard 3]({{wiki}}/MinnowBoard-3), and [Intel® Galileo Gen 2]({{wiki}}/Galileo). This allows you to experiment and develop UEFI features on real hardware.
 
