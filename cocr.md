@@ -5,7 +5,7 @@ id: codeOfConductReporting
 ---
 {% include site-links.md %}
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [edk2-devel-owner@lists.01.org](mailto:edk2-devel-owner@lists.01.org?subject:code-of-conduct). **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+If you believe someone is violating the code of conduct, we ask that you report it by emailing [{{adminemail}}](mailto:{{adminemail}}?subject:code-of-conduct). **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 **If you believe anyone is in physical danger, please notify appropriate law enforcement first.** If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
 

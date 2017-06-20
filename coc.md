@@ -15,7 +15,7 @@ This isn’t an exhaustive list of things that you can’t do. Rather, take it i
 
 This code of conduct applies to all spaces managed by the TianoCore project. This includes IRC, mailing lists, Bugzilla, events, and other forums created by the project team which the community uses for communication. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing [edk2-devel-owner@lists.01.org](mailto:edk2-devel-owner@lists.01.org?subject:code-of-conduct). [For more details please see our Reporting Guidelines]({{baseurl}}/cocr.html).
+If you believe someone is violating the code of conduct, we ask that you report it by emailing [{{adminemail}}](mailto:{{adminemail}}?subject:code-of-conduct). [For more details please see our Reporting Guidelines]({{baseurl}}/cocr.html).
 * Be friendly and patient.
 * Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 * Be considerate. Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
