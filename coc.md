@@ -5,7 +5,7 @@ id: codeOfConduct
 ---
 {% include site-links.md %}
 
-The TianoCore project added a “code of conduct” in May 2017.
+The TianoCore project added a “code of conduct” in June 2017.
 
 Like the technical community as a whole, the TianoCore team and community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
