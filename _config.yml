@@ -11,7 +11,7 @@ description: TianoCore UEFI related projects
 url: https://acgmultimedia.github.io/acgtianocore
 
 # If hosting a project on GH pages, must define a baseurl to the project
-baseurl: /acgtianocore
+#baseurl: /acgtianocore
 
 markdown: kramdown
 
