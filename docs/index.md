@@ -2,8 +2,6 @@
 layout: default
 title: Documentation
 id: documentation
-redirect_from:
-  - /training/
 ---
 {% include site-links.md %}
 

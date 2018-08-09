@@ -1,7 +1,10 @@
 ---
-layout: default
+layout: acgRedirect
+acgRedirectUrl: https://github.com/tianocore/tianocore.github.io/wiki/Training
 title: Training
+redirect_from: "/Training.html"
 ---
+-
 {% include site-links.md %}
 
 
@@ -13,4 +16,3 @@ title: Training
 
 * Request for training material: [Material
   Request](mailto:{{adminemail}}?Subject=UEFI%20Training%20Material&body=UEFI%20Training%20Material)
-
